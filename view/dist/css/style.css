@@ -1,17 +1,32 @@
 
 .carousel_info{
     background: #6a6d6f;
-    width: 100%;
+    width: 50%;
     height: 20%;
     position: absolute;
     display: block;
     top:40%;
+    left:25%;
     
 
 }
 .index_carousel img {
-    width: 100%;
+    width: 50%;
+
 }
 .sidebar-menu {
     white-space: normal;
+}
+i{
+    text-decoration-style: none
+}
+.box-chloe__icon {
+    position: relative;
+    font-size: 50px;
+    text-transform: uppercase;
+    background: linear-gradient(to right,#00a9ff 40%,#00caad 60%);
+    background-clip: border-box;
+-webkit-background-clip: text;
+-webkit-text-fill-color:
+    transparent;
 }

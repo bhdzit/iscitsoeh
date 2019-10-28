@@ -9,9 +9,17 @@
 
 			 $view= new controllerView();
 			 $rute=$view->getViewsController();
-		include("content/menu_view.php");
-		include("modulos/index_view.php");
-	    
+		
+  
+	 if($rute!="404"){
+
+	 	include("content/menu_view.php");
+	 	require_once($rute);	
+	 
+	 }
+	 else{
+	 	include("./view/modulos/404.php");
+	 }
 		include("content/footer.php");
 ?>
 

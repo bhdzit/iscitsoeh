@@ -14,7 +14,7 @@
                       </p>
                       <a href="#">Leer más</a>
                       </div>
-                        <img class="d-block img-fluid" src="view/dist/img/slider1.jpg" alt="First slide">
+                        <img class="d-block img-fluid" src="view/dist/img/slider3.png" alt="First slide">
                       
                     </div>
 
@@ -24,7 +24,7 @@
                         <h1 data-caption-animate="fadeInUpSmall">CACEI</h1>
                 <p class="quote-classic__text call-subtitle_text" data-caption-animate="fadeInUpSmall" data-caption-delay="200">Difusión de Elementos de la acreditación 2018.<span class="group-item"></span></p><a class="button button-lg button-primary" href="#" data-caption-animate="fadeInUpSmall" data-caption-delay="250">Leer más</a>
                         </div>
-                      <img src="view/dist/img/slider2.jpg" alt="Second slide">
+                      <img src="view/dist/img/slider1.jpg" alt="Second slide">
                     
                     </div>
 
@@ -34,10 +34,20 @@
                         <h1 data-caption-animate="fadeInUpSmall">Expo Sistemas</h1>
                 <p class="quote-classic__text call-subtitle_text" data-caption-animate="fadeInUpSmall" data-caption-delay="200">Conoce los proyectos realizados por alumnos de la carrera.<span class="group-item"></span></p><a class="button button-lg button-primary" href="#" data-caption-animate="fadeInUpSmall" data-caption-delay="250">Leer más</a>
                         </div>
-                      <img class="d-block img-fluid" src="view/dist/img/slider3.jpg" alt="Third slide">
+                      <img class="d-block img-fluid" src="view/dist/img/slider3.png" alt="Third slide">
+                    </div>
+
+                 
+                     <div class="carousel-item">
+                       <div class="carousel_info">
+                        <h1 data-caption-animate="fadeInUpSmall">Centro de Formación de Capital Humano</h1>
+                <p class="quote-classic__text call-subtitle_text" data-caption-animate="fadeInUpSmall" data-caption-delay="200">Conoce los proyectos realizados por alumnos de la carrera.<span class="group-item"></span></p><a class="button button-lg button-primary" href="#" data-caption-animate="fadeInUpSmall" data-caption-delay="250">Leer más</a>
+                        </div>
+                      <img class="d-block img-fluid" src="view/dist/img/slider2.png" alt="Third slide">
                     </div>
 
                   </div>
+
 
 
 
@@ -58,10 +68,10 @@
 
   <div class="card text-center">
   <div class="card-header">
-   Sistemas Computacionale
+   Sistemas Computacionales
   </div>
     <div class="card-body">
-   
+              <div class="box-chloe__icon linearicons-window"></div>
               <p>Ingeniería en Sistemas Computacioanles. Es una división del Instituto Tecnológico Superior del 
               Occidente de Estado de Hidalgo.</p>
               <a class="button button-sm button-default button-ujarak" href="historia.php">Ver detalles</a>
@@ -75,7 +85,7 @@
 Centro de Formación de Capital Humano
   </div>
     <div class="card-body">
-            <div class="box-chloe__icon linearicons-window"></div>
+            <div class="box-chloe__icon linearicons-database-check"></div>
               <p>Laboratorio de dispositivos móviles. Enfocado al desarrollo de software y aplicaciones móviles</p>
               <a class="button button-sm button-default button-ujarak" href="#">Ver detalles</a>
     </div>
@@ -87,6 +97,7 @@ Centro de Formación de Capital Humano
 Acreditación
   </div>
     <div class="card-body">
+      <div class="box-chloe__icon linearicons-vector"></div>
               <p>Actualemente la carrera de Ingeniería en Sistemas Computacionales, se encuentra en proceso de recertificación para el marco de referencia 2019 del CACEI.</p><a class="button button-sm button-default button-ujarak" href="AtrEgreso.php">Ver deetalles</a>
     </div>
   </div>
@@ -96,6 +107,7 @@ Acreditación
  Expo Sistemas 2018
   </div>
     <div class="card-body">
+      <div class="box-chloe__icon linearicons-desktop"></div>
               <p>Preparate y muestra el logro de los Atributos Educacionales así como los de tu perfil de egreso en Expo Proyecta Tec 2018.</p><a class="button button-sm button-default button-ujarak" href="Expo.php">Ver detalles</a>
     </div>
   </div>
@@ -106,4 +118,3 @@ Acreditación
 
 
 </center>
-  </div>
