@@ -25,4 +25,5 @@
 <script src="https://kit.fontawesome.com/015cfc4544.js"></script>
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+  <script src="./view/dist/js/function.js"></script>
 </head>

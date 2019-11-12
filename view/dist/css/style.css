@@ -30,3 +30,48 @@ i{
 -webkit-text-fill-color:
     transparent;
 }
+.conten-titel{
+    padding-top: 13%;
+    padding-bottom: 15%;
+}
+.card-text{
+    font-size: 1.3em;
+    padding: 5%;
+}
+.footer-classic__custom-column::before {
+    color: #fff;
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: -100vw;
+    background: 
+    #34353b;
+    -webkit-transform: skew(20deg);
+    transform: skew(20deg);
+    -webkit-transform-origin: 100% 145%;
+    transform-origin: 100% 145%;
+    pointer-events: none;
+}
+.footer-classic__custom-column > * {
+    color: #fff;
+    position: relative;
+    z-index: 1;
+}
+.card-hide{
+    display: none;
+}
+@keyframes leftTransition{
+  from   {left:0px;}
+  to {left:-100%;}
+
+}
+.left-transition{
+width: 100%;
+  position: relative;
+  animation-name:leftTransition;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+
