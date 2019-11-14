@@ -1,7 +1,8 @@
   <div class="content-wrapper pt-5" >
-    
+    <center>
           <h1>Especialidad de Tecnologías y Aplicaciones con Sistemas Inteligentes. TASI</h1>
 <div class="card">
+  <div></div>
   <div class="card-header">
     <ul class="nav nav-tabs card-header-tabs">
       <li id="1" class="nav-item" name="dam_objetivo" onclick="navbarChange(this)">

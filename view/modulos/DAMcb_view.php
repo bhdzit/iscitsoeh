@@ -13,6 +13,9 @@
       <li id="3" class="nav-item" onclick="navbarChange(this)">
         <a class="nav-link ">Malla Curricular</a>
       </li>
+      <li id="4" class="nav-item" onclick="navbarChange(this)">
+        <a class="nav-link ">Juego</a>
+      </li>
     </ul>
   </div>
   <div  id="dam_objetivo" class="card-body  ">
@@ -25,6 +28,19 @@
     <div  id="dam_malla"class="card-body card-hide ">
     <img src="./view/dist/img/dam.jpg">
   </div>
+     <div onmousemove="moveimg(event)" id="dam_juego" class="card-body card-hide ">
+    <div class="game-obstacul"></div>
+    <img id="logo-android" src="./view/dist/img/android-game.png">
+      
+  </div>
 
 
 </div>
+<script type="text/javascript">
+  var img=document.getElementById("logo-android");
+ function moveimg(e) {
+  console.log(e.clientX);
+  img.style.left=(e.clientX-250)+"px";
+  img.style.top=(e.clientY-250)+"px";
+  }
+</script>

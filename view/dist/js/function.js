@@ -1,5 +1,5 @@
 function navbarChange(item) {
-	swal("Good job!", "You clicked the button!", "success");
+
 	var prev=document.getElementsByClassName("active");
 	const posanterior=prev[0].parentNode.id-1;
 	prev[0].classList.remove("active");
