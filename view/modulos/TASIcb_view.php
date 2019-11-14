@@ -1,7 +1,7 @@
   <div class="content-wrapper pt-5" >
-        <center>
+    
           <h1>Especialidad de Tecnologías y Aplicaciones con Sistemas Inteligentes. TASI</h1>
-<div class="card text-center">
+<div class="card">
   <div class="card-header">
     <ul class="nav nav-tabs card-header-tabs">
       <li id="1" class="nav-item" name="dam_objetivo" onclick="navbarChange(this)">
@@ -19,7 +19,7 @@
     <img src="./view/dist/img/tasi.jpg">
  </div>
    <div  id="dam_perfil"class="card-body  card-hide">
- <div class="box-body">
+ <div class="box-body ">
 <h3>El especialista en tecnologías y aplicacines con sistemas inteligentes será capaz de:</h3>
 <ul class="list-group">
  
