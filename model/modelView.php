@@ -6,7 +6,7 @@ class modelView{
 		$rutesarray=["tutoria","index",
 		"asesorias","actcomp",
 		"serapoyo","profes",
-		"reticula","DAMcb",
+		"reticula","DAMcb","welcome",
 		"TASIcb"];
 		
 		if(in_array($view,$rutesarray)){

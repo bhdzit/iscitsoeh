@@ -14,7 +14,7 @@ class controllerView extends modelView{
 			$view=modelView::getModelViews($route[0]);
 		}
 		else{
-			$view=modelView::getModelViews("index");
+			return "welcome";
 		}
 		return $view;
 
