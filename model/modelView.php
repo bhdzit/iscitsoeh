@@ -3,10 +3,10 @@ class modelView{
 
 	protected function getModelViews($view){
 		
-		$rutesarray=["tutoria","index",
+		$rutesarray=["tutoria","home",
 		"asesorias","actcomp",
 		"serapoyo","profes",
-		"reticula","DAMcb",
+		"reticula","DAMcb","welcome",
 		"TASIcb"];
 		
 		if(in_array($view,$rutesarray)){

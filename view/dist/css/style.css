@@ -1,25 +1,28 @@
 
-.carousel_info{
-    background: #6a6d6f;
-    width: 50%;
-    height: 20%;
-    position: absolute;
-    display: block;
-    top:40%;
-    left:25%;
-    
-
-}
-.index_carousel img {
-    width: 50%;
-
-}
 .sidebar-menu {
     white-space: normal;
 }
 i{
     text-decoration-style: none
 }
+.welcome-home-btn{
+    display: flex;
+position: absolute;
+top: 90%;
+left: 50%;
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, 0%);
+}
+#gusano{
+background: #fff;
+width: 30px;
+height: 30px;
+border-radius: 50%;
+position: absolute;
+left: 0;
+}
+
+
 .box-chloe__icon {
     position: relative;
     font-size: 50px;
@@ -74,6 +77,7 @@ width: 100%;
   animation-duration: 2s;
   animation-fill-mode: forwards;
 }
+
 #dam_juego{
     width: 100%;
     height: 100%;
@@ -88,11 +92,93 @@ width: 100%;
     height: 200px;
     background: #00f;
 }
-#logo-android{
-    width: 10%;
 
-position: absolute;
+  .carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
 
-left: 0;
+.circule_container{
+            height: 35vw;
+            width: 35vw;
+            background: #fff;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            border-radius: 50%;
+        
+           
+        }
+        .internocirculo{
+        border-radius: 50%;
+    
+        width: 90%;
+        height: 90%;
+        border: 1px solid #000;
+        display: flex;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    
+>>>>>>> 4c47d617988815843a7d93adaa2bc8b0b7368764
+
+        }
+        .circuloder{
+             border-left: 5px solid #000;
+            border-right: 5px solid #000;
+            border-bottom: 5px solid #fff;
+            border-top:5px solid #fff;
+             animation-timing-function: linear;
+                animation-name: example;
+        animation-duration: 10s;
+              animation-iteration-count: infinite;
+        }
+        .criculoisq{
+             border-left: 5px solid #fff;
+            border-right: 5px solid #fff;
+            border-bottom: 5px solid #000;
+            border-top:5px solid #000;
+           animation-name: exampl;
+           animation-timing-function: linear;
+            animation-duration: 5s;
+             animation-direction: reverse;
+            animation-iteration-count: infinite;
+        }
+        .circule_container:hover{
+        height: 40vw;
+        width: 40vw;
+        }
+        .circule_container img{
+            height: 50%;
+                position: absolute;
+        top: 50%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        animation-timing-function: linear;
+                animation-name: example;
+        animation-duration: 10s;
+              animation-iteration-count: infinite;
+    
+        }
+
+        @keyframes example {
+           from {transform: translate(-50%, -50%) rotate(0deg);}
+           to {transform: translate(-50%, -50%) rotate(360deg);}
+        }
+        @keyframes exampl{
+           from {transform: translate(-50%, -50%) rotate(0deg);}
+           to {transform: translate(-50%, -50%) rotate(360deg);}
+        }
+        }
+
+
+
+::-webkit-scrollbar {
+    width: 0px;
 }
-
+    

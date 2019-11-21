@@ -18,7 +18,7 @@
   <!-- Morris chart -->
   <link rel="stylesheet" href="./view/dist/css/morris.css">
 
-  <link rel="stylesheet" href="./view/dist/css/style.css">
+
     <link rel="stylesheet" href="./view/dist/css/fonts.css">
   
 <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
@@ -26,5 +26,5 @@
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
   <script src="./view/dist/js/function.js"></script>
-
+  <link rel="stylesheet" href="./view/dist/css/style.css">
 </head>

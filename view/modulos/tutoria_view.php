@@ -1,4 +1,15 @@
+
+
   <div class="content-wrapper " >
+    <nav aria-label="breadcrumb">
+
+  <ol class="breadcrumb">
+ 
+    <li class="breadcrumb-item"><a href="#">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="#">Tutuoria</a></li>
+
+  </ol>
+</nav>
         <center>
    <section class="content row  conten-titel">
    	<div class="col-3 d-none d-md-block col-md-3 "></div>
