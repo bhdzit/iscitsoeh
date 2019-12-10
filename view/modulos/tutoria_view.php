@@ -6,7 +6,7 @@
   <ol class="breadcrumb ">
  <div class="skin-blue" style="
   position: absolute;
-  left: 16%;
+  left: 0%;
   top: 0%;
      width: 50%;
      height: 0;

@@ -7,9 +7,9 @@
 
         <li><a href="#"><i class="fas fa-file-download"></i>   <span>   ISC Descargas</span></a></li>
 
-        <li><a href="#"><i class="fas fa-building"></i>   <span>    ITSOEH</span></a></li>
+        <li><a href="http://www.itsoeh.edu.mx"><i class="fas fa-building"></i>   <span>    ITSOEH</span></a></li>
 
-        <li><a href="<?php echo SERVERURL?>"><i class="fas fa-home"></i>  <span>INICIO</span></a></li>
+        <li><a href="<?php echo SERVERURL?>home"><i class="fas fa-home"></i>  <span>INICIO</span></a></li>
         
 
         <li class=" treeview">
@@ -34,7 +34,7 @@
 
           <li class="treeview">
             <a href="#">
-             <i class="fa fa-dashboard"></i> <span>Especialidades</span>
+            <i class="fas fa-graduation-cap"></i> <span>Especialidades</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>             
@@ -48,7 +48,7 @@
                      
          <li class="treeview">
             <a href="#">
-             <i class="fa fa-dashboard"></i> <span>Lineamientos</span>
+            <i class="fas fa-user-graduate"></i> <span>Lineamientos</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>             
@@ -62,7 +62,7 @@
 
            <li class="treeview">
             <a href="#">
-             <i class="fa fa-dashboard"></i> <span>Académia</span>
+             <i class="fas fa-chalkboard-teacher"></i> <span>Académia</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>             
@@ -84,7 +84,7 @@
 
           <li class="treeview">
             <a href="#">
-             <i class="fa fa-dashboard"></i> <span>PE ISC</span>
+             <i class="far fa-building"></i><span>PE ISC</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>             

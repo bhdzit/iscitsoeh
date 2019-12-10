@@ -1,2 +1,2 @@
 <?php 
-const SERVERURL="http://localhost/iscitsoeh/" ;
+const SERVERURL="http://127.0.0.1/webisc/iscbhdz/" ;

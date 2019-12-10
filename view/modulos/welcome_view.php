@@ -27,14 +27,14 @@
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="carousel-item-img" src="<?php echo SERVERURL?>view/dist/img/slider1.png" style="width: 100%;">
+      <img class="carousel-item-img" src="<?php echo SERVERURL?>view/dist/img/isc15.jpg" style="width: 100%;">
     </div>
     <div class="carousel-item">
 
-      <img style="width: 100%;" class="carousel-item-img" src="<?php echo SERVERURL?>view/dist/img/slider2.png" alt="Chicago">
+      <img style="width: 100%;" class="carousel-item-img" src="<?php echo SERVERURL?>view/dist/img/slider2.jpg" alt="Chicago">
     </div>
     <div class="carousel-item">
-      <img class="carousel-item-img" style="width: 100%;" src="<?php echo SERVERURL?>view/dist/img/slider3.png" alt="New York">
+      <img class="carousel-item-img" style="width: 100%;" src="<?php echo SERVERURL?>view/dist/img/slider5.jpg" alt="New York">
     </div>
   </div>
 
