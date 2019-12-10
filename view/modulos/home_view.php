@@ -1,67 +1,37 @@
   <div class="content-wrapper">
         <center>
-   <section class="content index_carousel">
+  <div id="carousel" class="carousel slide" data-ride="carousel">
 
-                <h1>Noticias</h1>
-              <div id="carouselExampleControls" class=" col-12 carousel slide pointer-event" data-ride="carousel">
-                  <div class="carousel-inner" role="listbox">
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel" data-slide-to="1"></li>
+    <li data-target="#carousel" data-slide-to="2"></li>
+  </ul>
 
-                    <div class="carousel-item active">
-                         <div class="carousel_info">
-                       <h1 data-caption-animate="fadeInUpSmall">Bienvenido a ISC</h1>
-                        <p >División de Ingeniería en Sistemas Computacionales 
-                        <span class="group-item"></span>
-                      </p>
-                      <a href="#">Leer más</a>
-                      </div>
-                        <img class="d-block img-fluid" src="view/dist/img/slider3.png" alt="First slide">
-                      
-                    </div>
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="carousel-item-img" src="<?php echo SERVERURL?>view/dist/img/slider1.png" style="width: 100%;">
+    </div>
+    <div class="carousel-item">
 
+      <img style="width: 100%;" class="carousel-item-img" src="<?php echo SERVERURL?>view/dist/img/slider2.png" alt="Chicago">
+    </div>
+    <div class="carousel-item">
+      <img class="carousel-item-img" style="width: 100%;" src="<?php echo SERVERURL?>view/dist/img/slider3.png" alt="New York">
+    </div>
+  </div>
 
-                    <div class="carousel-item">
-                      <div class="carousel_info">
-                        <h1 data-caption-animate="fadeInUpSmall">CACEI</h1>
-                <p class="quote-classic__text call-subtitle_text" data-caption-animate="fadeInUpSmall" data-caption-delay="200">Difusión de Elementos de la acreditación 2018.<span class="group-item"></span></p><a class="button button-lg button-primary" href="#" data-caption-animate="fadeInUpSmall" data-caption-delay="250">Leer más</a>
-                        </div>
-                      <img src="view/dist/img/slider1.jpg" alt="Second slide">
-                    
-                    </div>
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#carousel" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#carousel" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
 
-
-                    <div class="carousel-item">
-                       <div class="carousel_info">
-                        <h1 data-caption-animate="fadeInUpSmall">Expo Sistemas</h1>
-                <p class="quote-classic__text call-subtitle_text" data-caption-animate="fadeInUpSmall" data-caption-delay="200">Conoce los proyectos realizados por alumnos de la carrera.<span class="group-item"></span></p><a class="button button-lg button-primary" href="#" data-caption-animate="fadeInUpSmall" data-caption-delay="250">Leer más</a>
-                        </div>
-                      <img class="d-block img-fluid" src="view/dist/img/slider3.png" alt="Third slide">
-                    </div>
-
-                 
-                     <div class="carousel-item">
-                       <div class="carousel_info">
-                        <h1 data-caption-animate="fadeInUpSmall">Centro de Formación de Capital Humano</h1>
-                <p class="quote-classic__text call-subtitle_text" data-caption-animate="fadeInUpSmall" data-caption-delay="200">Conoce los proyectos realizados por alumnos de la carrera.<span class="group-item"></span></p><a class="button button-lg button-primary" href="#" data-caption-animate="fadeInUpSmall" data-caption-delay="250">Leer más</a>
-                        </div>
-                      <img class="d-block img-fluid" src="view/dist/img/slider2.png" alt="Third slide">
-                    </div>
-
-                  </div>
-
-
-
-
-                  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                  </a>
-                  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                  </a>
-                </div>
-        
-            </section> 
+</div>
  <section >           
 <div class="card-deck m-5 mr-5">
 

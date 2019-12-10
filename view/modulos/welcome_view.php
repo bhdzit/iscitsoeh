@@ -13,7 +13,7 @@
 			</center>
 		</div>
 	</div>
-</div>
+
 
 <div id="carousel" class="carousel slide d-none" data-ride="carousel">
 
