@@ -19,7 +19,7 @@
     </ul>
   </div>
   <div  id="dam_objetivo" class="card-body  ">
-    <img src="./view/dist/img/slider1.jpg">
+    <img src="./view/dist/img/dam.jpg">
  </div>
    <div  id="dam_perfil"class="card-body  card-hide">
     <img src="./view/dist/img/slider2.jpg">

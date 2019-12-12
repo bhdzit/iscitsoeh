@@ -10,7 +10,7 @@
   <script src="./view/dist/js/popper.min.js"></script>
   <script src="./view/dist/js/bootstrap.min.js"></script>
 
-  <link rel="stylesheet" href="./view/dist/css/ionicons.min.css">
+  <link rel="stylesheet" href="./view/dist/css/ionicons.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="./view/dist/css/AdminLTE.min.css">
 

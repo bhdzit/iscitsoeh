@@ -1,73 +1,162 @@
-    <div class="content-wrapper " >
 
-               <nav aria-label="breadcrumb">
 
-  <ol class="breadcrumb ">
- <div class="skin-blue" style="
-  position: absolute;
-  left: 0%;
-  top: 0%;
-     width: 50%;
-     height: 0;
-     border-right: 50px solid transparent;
-     border-bottom: 50px solid #222d32"></div>
-    <li class="breadcrumb-item" style="z-index: 2"><a href="#">Inicio</a></li>
-    <li class="breadcrumb-item" style="z-index: 2"><a href="#">Servicios de Apoyo</a></li>
+  <div class="content-wrapper " >
+    <section class="content-header">
+      <h1>
 
-  </ol>
+Servicios de Apoyo
+   
+      </h1>
+      <ol class="breadcrumb">
+        <li><a href="#"><i class="fa fa-dashboard"></i>Servicios</a></li>
+        <li><a href="#">
+Servicios de Apoyo</a></li>
+
+      </ol>
+    </section>
+    <nav aria-label="breadcrumb">
+
+
 </nav>
-
-      <section class="content row  conten-titel">
-    <div class="col-3 d-none d-md-block col-md-3 "></div>
-  
-<!-- Start  Product details -->
-<div class="card">
-  <div class="product-details">
-    
-    <!--  Product Name -->
-<div class="card-header">  <h1>Servicios de Apoyo</h1><br></div>
-<!--    <span class="hint new">New</span> -->
-<!--    <span class="hint free-shipping">Free Shipping</span> -->
-<!--    the Product rating -->
- 
-    
-  
-<!-- The most important information about the product -->
+        <center>
+   <section class="content row  conten-titel p-4">
+   
+   <div class="card text-center col-12 col-sm-12 d-md-block col-md-12">
+  <div class="card-header bg-dark">
+<h1  style="color:#FFF;">
+Servicios de Apoyo</h1>
+  </div>
 <div class="card-body">
-   <ul class="list-group">
-    <li class="list-group-item"><strong>Servicio Médico </strong>Edificio IV planta alta                 Ext 311 </li>
-    <li class="list-group-item"><strong>Servicio de psicología y asesorías </strong> Edificio de biblioteca                  Ext 309 y 310 </li>
-    <li class="list-group-item"><strong>Coordinación de idiomas </strong>  Edificio V planta alta                  Ext 303</li>
-    <li class="list-group-item"><strong>Control escolar y becas </strong> Edificio de Dirección General       Ext 630 y 631 </li>
-    <li class="list-group-item"><strong>Servicio de laboratorios de cómputo </strong>Edificio VI                                  Ext 111 </li>
-    <li class="list-group-item"><strong>Servicio de biblioteca </strong>Edificio Centro de Información    Ext 302 </li>
-    <li class="list-group-item"><strong>Actividades culturales y deportivas </strong>Edificio de Dirección General </li>
-    <li class="list-group-item"><strong>Servicio social y residencia profesional </strong> Edificio de Dirección General       Ext 540 y 541 </li>
-    <li class="list-group-item"><strong>Centro de cómputo </strong>Edificio VI                                  Ext 111 </li>
-    <li class="list-group-item"><strong>Servicio de cafetería </strong> </li>
-    <li class="list-group-item"><strong>Plaza del estudiante </strong> </li>
+
+<ul class="timeline timeline-inverse">
+              
+              
+                  <li>
+                    <i class="fa fas fa-stream " ></i>
+
+                    <div class="timeline-item">
+                   
+
+                      <h3 class="timeline-header no-border"><a href="#">Servicio Médico </a> Edificio IV planta alta                 Ext 311 
+                      </h3>
+                    </div>
+                  </li>
+                  
+             
+
+
+                 <li>
+                    <i class="fa fas fa-stream " ></i>
+                    <div class="timeline-item">
+                      <h3 class="timeline-header no-border"><a href="#">Edificio IV planta alta </a>    Ext 311 
+                        </h3>
+                    </div>
+                  </li>
+                  
+             
+             <li>
+                    <i class="fa fas fa-stream " ></i>
+                    <div class="timeline-item">
+                      <h3 class="timeline-header no-border"><a href="#">Servicio de psicología y asesorías </a> Edificio de biblioteca                  Ext 309 y 310 
+                             </h3>
+                    </div>
+                  </li>
+                  
+             
+
+    <li>
+                    <i class="fa fas fa-stream " ></i>
+                    <div class="timeline-item">
+                      <h3 class="timeline-header no-border"><a href="#">Coordinación de idiomas </a>  Edificio V planta alta                  Ext 303     </h3>
+                    </div>
+                  </li>
+                  
+             
+
+    <li>
+                    <i class="fa fas fa-stream " ></i>
+                    <div class="timeline-item">
+                      <h3 class="timeline-header no-border"><a href="#">Control escolar y becas </a> Edificio de Dirección General       Ext 630 y 631      </h3>
+                    </div>
+                  </li>
+                  
+             
+
+    <li>
+                    <i class="fa fas fa-stream " ></i>
+                    <div class="timeline-item">
+                      <h3 class="timeline-header no-border"><a href="#">Servicio de laboratorios de cómputo </a>Edificio VI                                  Ext 111      </h3>
+                    </div>
+                  </li>
+                  
+             
+
+    <li>
+                    <i class="fa fas fa-stream " ></i>
+                    <div class="timeline-item">
+                      <h3 class="timeline-header no-border"><a href="#">Servicio de biblioteca </a>Edificio Centro de Información    Ext 302      </h3>
+                    </div>
+                  </li>
+                  
+             
+
+    <li>
+                    <i class="fa fas fa-stream " ></i>
+                    <div class="timeline-item">
+                      <h3 class="timeline-header no-border"><a href="#">Actividades culturales y deportivas </a>Edificio de Dirección General      </h3>
+                    </div>
+                  </li>
+                  
+             
+
+    <li>
+                    <i class="fa fas fa-stream " ></i>
+                    <div class="timeline-item">
+                      <h3 class="timeline-header no-border"><a href="#">Servicio social y residencia profesional </a> Edificio de Dirección General       Ext 540 y 541      </h3>
+                    </div>
+                  </li>
+                  
+             
+
+    <li>
+                    <i class="fa fas fa-stream " ></i>
+                    <div class="timeline-item">
+                      <h3 class="timeline-header no-border"><a href="#">Centro de cómputo </a>Edificio VI                                  Ext 111      </h3>
+                    </div>
+                  </li>
+                  
+             
+
+    <li>
+                    <i class="fa fas fa-stream " ></i>
+                    <div class="timeline-item">
+                      <h3 class="timeline-header no-border"><a href="#">Servicio de cafetería </a>      </h3>
+                    </div>
+                  </li>
+                  
+             
+
+    <li>
+                    <i class="fa fas fa-stream " ></i>
+                    <div class="timeline-item">
+                      <h3 class="timeline-header no-border"><a href="#">Plaza del estudiante </a>      </h3>
+                    </div>
+                  </li>
+                  
+             
+
 
     </ul>
     <p></p>
 </div>
-<!--    Control -->
-<div class="control">
+
+</div>
   
 
-  
-</div>
-      
-</div>
-  
-<!--  End Product details   -->
-  
-  
-  
-<!--  Start product image & Information -->
   
  
-      <p class="float-right"><a href="index.php">Regresar al menú</a></p>
-  
+   
+  </section>
+</center>
 
 </div>
-</section>
